@@ -2,7 +2,7 @@
 
 Увлекательнейшая битва двух IT-гигантов!
 
-(игра в режиме hot-seat)
+(игра в режиме hot-seat (то есть за одним ПК))
 
 Для запуска смотрите [файл](https://github.com/StellarProcy/Hello-Mediasoft/blob/tic_tac_toe/JS-Mediasoft_tic_tac_toe.html).
 
