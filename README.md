@@ -1,4 +1,4 @@
-![](https://github.com/{username}/{repository}/raw/{branch}/{path}/image.png)
+![](https://i.imgur.com/qIEH4Z5.png)
 
 Увлекательнейшая битва двух IT-гигантов!
 
