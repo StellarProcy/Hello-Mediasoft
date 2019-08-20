@@ -4,5 +4,5 @@
 
 (игра в режиме hot-seat)
 
-Для запуска отрывайте ![](https://github.com/StellarProcy/Hello-Mediasoft/blob/tic_tac_toe/JS-Mediasoft_tic_tac_toe.html) ссылку.
+Для запуска смотрите [файл](https://github.com/StellarProcy/Hello-Mediasoft/blob/tic_tac_toe/JS-Mediasoft_tic_tac_toe.html) ссылку.
 
