@@ -6,7 +6,7 @@
 
 Для запуска смотрите [файл](https://github.com/StellarProcy/Hello-Mediasoft/blob/tic_tac_toe/JS-Mediasoft_tic_tac_toe.html).
 
-Вы также можете поиграть [вот тут](https://448214.playcode.io/)
+Вы также можете поиграть онлайн[вот тут](https://448214.playcode.io/)
 
 Disclaimer: все сделано для шутки :)
 
